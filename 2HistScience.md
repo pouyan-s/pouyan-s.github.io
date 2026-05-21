@@ -2,7 +2,7 @@
 layout: landing
 title: Research
 description: History of Science | Medieval Studies | Middle Eastern Studies | Intellectual, Digital and Spatial Histories
-image: assets/images/moons.png
+image: assets/images/Moons.png
 nav-menu: true
 permalink: /research/
 ---

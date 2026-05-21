@@ -2,7 +2,7 @@
 title: Digital Reconstruction
 layout: landing
 description: 'Instruments, Instrumentation, and computational methods in mathematical astronomy'
-image: assets/images/reconst.png
+image: assets/images/Reconst.png
 nav-menu: true
 permalink: /d-recon/
 ---
