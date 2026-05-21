@@ -1,0 +1,7 @@
+A general view of the building known as Ibn Sīnā’s Madras in Isfahan  ca. 1970’s. (Honarfar, Lotfollah. Ganjīnah-yi āṣār-i tārīkhī-yi Iṣfahān [A treasure of historical monuments of Isfahan]. 2nd ed., Saghafi Bookshop, 1971. p.47)
+
+An internal view of the building known as Ibn Sīnā’s Madras in Isfahan (Shahsanaei, Peyman. Madras-i Ibn Sīnā. Photograph, 2022, https://www.isna.ir/photo/1401060100203.)
+
+Georeferencing a raster map of Isfahan’s historical urban arteries (Gaube, Heinz. “Iranian Cities.” The City in the Islamic World (2 Vols.), Brill, 2008, pp. 159–80. p.1173) and digitizing roads as line features in ArcGIS Pro
+
+Spatial reconstruction of 10th–11th century CE Isfahan

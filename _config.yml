@@ -1,1 +1,44 @@
-theme: jekyll-theme-time-machine
+# site settings
+title: Pouyan Shahidi
+subtitle: Historian of Science | Digital Humanist | PhD Candidate & Assoc. Instr. @ Indiana University
+email: pshahidi@iu.edu
+description: I am a historian of science, and a digital humanities specialist and consultant, at the final stages of my doctoral studies at Indiana University Bloomington. As a historian of science, I uncover and examine interdisciplinary interactions between premodern natural philosophy and mathematical sciences such as astronomy. As a digital humanist, I design and implement digital tools and solutions that provide new methods for historical research and pedagogy. This ranges from spatial analysis and visualization of historical data on interactive maps, to digitally reconstructing objects and methods for empowering the scholars and students of humanities to understand and engage with premodern, scientific and mathematical texts, data, calculations, instruments, and instrumentation. During this undertaking, I have developed expertise in digital mapping and database building with Geographic Information Systems (GIS), digital-humanities (DH) tool-building, digital reconstruction, and network analysis.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: Toronto
+state: ON
+zip_code: 
+country: Canada
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 5
+
+# social settings (key must match name of font awesome icon)
+# see https://fontawesome.com/icons?d=gallery&p=2&s=brands
+# Icons are not shown if value is empty
+# You need to restart jekyll for changes to have an effect
+socials:
+  GitHub: https://github.com/pouyan-s
+  GitLab:
+  Google-Plus: 
+  Instagram:
+  LinkedIn: https://www.linkedin.com/in/pouyan-shahidi/
+  Twitter: 
+  Facebook:
+  Slack:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+
+exclude:
+- "*.gemspec"
+- LICENSE.md
+- CONTRIBUTING.md
+- README.md 
